@@ -3,7 +3,7 @@ return[
 	'name' => 'sampledb',
 	'username' => 'siyabd',
 	'password' => '123',
-	'connection' => 'mysql//:mysqlsiya:',
+	'connection' => 'mysql//:mysql:',
 	'options' => [
 		PDO::ATTR_PERSISTENT    => true,
     	PDO::ATTR_ERRMODE       => PDO::ERRMODE_EXCEPTION,
