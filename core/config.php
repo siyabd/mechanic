@@ -1,6 +1,6 @@
 <?php
 return[
-	'name' => 'mechanic',
+	'name' => 'sampledb',
 	'username' => 'siyabd',
 	'password' => '123',
 	'connection' => 'mysql//:mysqlsiya:',
