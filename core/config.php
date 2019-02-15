@@ -2,7 +2,7 @@
 return[
 	'name' => 'mechanic',
 	'username' => 'siyabd',
-	'password' => '123',
+	'password' => '1234',
 	'connection' => 'mysql//:mysql',
 	'options' => [
 		PDO::ATTR_PERSISTENT    => true,
