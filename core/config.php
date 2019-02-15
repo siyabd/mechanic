@@ -1,8 +1,8 @@
 <?php
 return[
 	'name' => 'mechanic',
-	'username' => 'user6HJ',
-	'password' => 'Kaysto2#',
+	'username' => 'siyabd',
+	'password' => '123',
 	'connection' => 'mysql:host=mysql',
 	'options' => [
 		PDO::ATTR_PERSISTENT    => true,
